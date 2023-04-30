@@ -3,7 +3,7 @@ let statistics = {
     blueCars: 45,
     greenCars: 12,
     raceCars: 5,
-    blackCars: 2
+    blackCars: 2,
     rareCars: 2
 };
 
