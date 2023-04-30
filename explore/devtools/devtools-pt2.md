@@ -1,0 +1,2 @@
+1. the bug was that the num1 and num2 variables were strings instead of numbers
+2. in the results line, I called the function parseInt() for both num1 and num2 to change them to integers and then add them up, fixing the program
